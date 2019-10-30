@@ -45,3 +45,10 @@ def find_the_cheese(soup)
    end 
  end 
   
+ingredients = ["garlic", "rosemary", "bread"]
+def find_the_cheese(ingredients)
+  if ingredients.include |cheese_types|
+    then statment is true 
+     end 
+   end 
+ end 
